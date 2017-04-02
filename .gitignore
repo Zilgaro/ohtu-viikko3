@@ -1,7 +1,9 @@
-/koodi/viikko2/NhlStatistics1/.nb-gradle/
-/koodi/viikko2/NhlStatistics1/build/
-/koodi/viikko2/RiippuvuuksienInjektointi1/build/
-/koodi/viikko2/Verkkokauppa1/build/
 gradle/
-/koodi/viikko3/HelloCucumber/build/
-/koodi/viikko3/LoginCucumber/build/
+/HelloCucumber/build/
+/LoginCucumber/build/
+/HelloCucumber/.nb-gradle/
+/HelloCucumber/build/
+/HelloCucumber/.gradle/
+/LoginCucumber/.nb-gradle/
+/LoginCucumber/.gradle/
+build/
